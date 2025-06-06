@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Torno y Fresadora</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="                  
+                <li><a href="#">Máquinas Herramientas</a></li>
+                <li><a href="                     
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="maquinas-herramientas">
+            <h2>Máquinas Herramientas</h2>
+            <div class="maquina">
+                <img src="torno.jpg" alt="Torno">
+                <h3>Torno</h3>
+                <p>Descripción del torno</p>
+            </div>
+            <div class="maquina">
+                <img src="fresadora.jpg" alt="Fresadora">
+                <h3>Fresadora</h3>
+                <p>Descripción de la fresadora</p>
+            </div>
+        </section>
+        <section class="servicios">
+            <h2>Servicios</h2>
+            <div class="servicio">
+                <img src="servicio1.jpg" alt="Servicio 1">
+                <h3>Servicio 1</h3>
+                <p>Descripción del servicio 1</p>
+            </div>
+            <div class="servicio">
+                <img src="servicio2.jpg" alt="Servicio 2">
+                <h3>Servicio 2</h3>
+                <p>Descripción del servicio 2</p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Torno y Fresadora</p>
+    </footer>
+</body>
+</html>
